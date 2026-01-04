@@ -2,7 +2,7 @@
 
 First off, thank you for considering contributing to ScribeAI! It’s people like you who make this tool better for the entire developer community.
 
-As part of **EWoC 2026**, we aim to maintain a high standard of collaboration. Please follow these guidelines:
+Maintain a high standard of collaboration. Please follow these guidelines:
 
 ## 🛣️ How to Contribute
 1. **Claim an Issue:** Browse the [Issues](link-to-issues) tab. If you find one you like, comment `/assign` or ask the Admin to assign it to you. Please don't start work until you are assigned!
