@@ -88,6 +88,7 @@ graph TD
 
 </div>
 
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AIstar007/CodeReviewer./cc0e226d2047d6f0c52484fadb8a984b94f30f25/Images/ScribeAI%20Image.png" alt="ScribeAI Logo" width="600"/>
