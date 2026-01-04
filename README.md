@@ -19,7 +19,6 @@
 
 ---
 
-[![EWoC 2026](https://img.shields.io/badge/❄️_Elite_Winter_of_Code-2026-blue?style=for-the-badge)](https://ewoc.in)
 [![Contributions Welcome](https://img.shields.io/badge/🤝_Contributions-Welcome-success?style=for-the-badge)](#-contributing-to-scribeai)
 [![Discord](https://img.shields.io/badge/💬_Join-Discord-purple?style=for-the-badge&logo=discord)](https://discord.gg/scribeai)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -701,8 +700,8 @@ Brief description of changes
 - [ ] Documentation
 - [ ] Performance improvement
 
-## EWoC 2026 Contribution
-- [ ] Add label: `EWoC26` to your PR/MR
+## Contribution
+- [ ] Add label: `CodeReviewer` to your PR/MR
 - [ ] This is required for EWoC contribution tracking
 - [ ] Ensure your PR references an EWoC issue
 
@@ -792,7 +791,7 @@ Brief description of changes
 
 ## 🏆 Special Recognition
 
-**Thank You to Our EWoC 2026 Contributors!**
+**Thank You to Our Contributors!**
 
 *ScribeAI wouldn't be possible without our amazing community of contributors.*
 
