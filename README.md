@@ -9,6 +9,10 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=database&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<div align="center">
+(https://lh3.googleusercontent.com/gg-dl/ABS2GSkl6sWwwBk0GYNHdwJ55AFNSix9Ttsjrr32761rO1M2r8RGSf48PcikwwdX-ZwgMq-2bGHncFFMtxvUXr52Sr3G7x9dbappsFDtYKprATUxkcDPQJ53vbBkwb_a4EUI1fPB7WEjY8Z6HAEmRnfMWqwSl85fvKAId3RohZIcfMr0epk-=s1024-rj)
+</div>
+
 **AI-Powered Code Review Agent Acting as Your Senior Engineer**
 
 *Automating PR reviews with intelligent summarization, bug detection, and security scanning*
