@@ -80,35 +80,6 @@ graph TD
 
 ---
 
-## ❄️ Elite Winter of Code 2026
-
-<div align="center">
-
-### **ScribeAI is an Official EWoC 2026 Project!**
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="80"/>
-<br><strong>🎓 Learn & Grow</strong>
-<br>Work with cutting-edge AI/ML
-<br>Get mentorship from experts
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/group.png" width="80"/>
-<br><strong>🤝 Collaborate</strong>
-<br>Join 500+ contributors
-<br>Build your portfolio
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/trophy.png" width="80"/>
-<br><strong>🏆 Achieve</strong>
-<br>Earn certificates & swag
-<br>Contribute to open source
-</td>
-</tr>
-</table>
-
 **We Welcome Contributors of All Levels:**
 - 🎨 **Frontend Developers** - React/Next.js dashboard improvements
 - 🔧 **Backend Engineers** - FastAPI endpoints and webhook handlers
@@ -546,7 +517,7 @@ docker-compose down
 
 ---
 
-## 🗺️ EWoC 2026 Development Roadmap
+## 🗺️ Development Roadmap
 
 ### **Phase-Based Implementation Plan**
 
@@ -745,11 +716,7 @@ Brief description of changes
 - [ ] Self-review completed
 - [ ] Documentation updated
 - [ ] No breaking changes
-- [ ] `EWoC26` label added ✅
 ```
-
-**🎯 IMPORTANT for EWoC Contributors:**
-> All Pull Requests and Merge Requests for EWoC 2026 must include the `EWoC26` label to be counted towards your contribution. This helps us track and recognize your valuable contributions during the Elite Winter of Code!
 
 </div>
 
@@ -841,11 +808,11 @@ Brief description of changes
 
 ### 🤖 **Revolutionizing Code Review with AI!**
 
-*Built with ❤️ by the Open Source Community for EWoC 2026*
+*Built with ❤️ by the Open Source Community*
 
 **🌟 Star this repo to support our mission!** **🐛 Report issues** **💡 Suggest features**
 
-**Version 1.0.0** | **EWoC 2026 Project** | **Made for Developers, by Developers**
+**Made for Developers, by Developers**
 
 **📄 License:** MIT | **👨‍💻 Maintainer:** [Alen Thomas/AIstar007]
 
