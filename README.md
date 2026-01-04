@@ -10,7 +10,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AIstar007/CodeReviewer./cc0e226d2047d6f0c52484fadb8a984b94f30f25/Images/ScribeAI%20Image.png" alt="ScribeAI Logo" width="600"/>
+  <img src="https://raw.githubusercontent.com/AIstar007/CodeReviewer./dc693d65624e552c6f90349caa8894e77c733641/Images/ScribeAI%20Logo.png" alt="ScribeAI Logo" width="500">
 </div>
 
 **AI-Powered Code Review Agent Acting as Your Senior Engineer**
